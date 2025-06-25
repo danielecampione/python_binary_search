@@ -18,6 +18,11 @@ Oppure su Windows:
 py binary_search_gui.py
 ```
 
+## Schermata catturata
+
+![Png](https://i.ibb.co/Rps9sCXG/Immagine-2025-06-25-231519.png)
+
+
 ## 🎯 Caratteristiche dell'Applicazione
 
 ### Interface Utente
